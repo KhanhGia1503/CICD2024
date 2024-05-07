@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: bsignbkc/express-sample-project:staging
+          tags: khanhnguyen1503/CICD2024/stagging
 
 
   pull-and-up:
